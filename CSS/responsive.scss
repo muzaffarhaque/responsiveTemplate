@@ -1,0 +1,144 @@
+    @media (max-width:920px) {
+        .bottm-b {
+            box-shadow: none !important;
+        }
+        .hero-section {
+            height: auto;
+        }
+        .hero-colum {
+            width: 100% !important;
+        }
+        .financ-wraper {
+            .colum {
+                width: 100%;
+            }
+        }
+        .finance-para {
+            margin-top: 0;
+        }
+        .hero-buttons {
+            flex-wrap: wrap;
+        }
+        .fx-hb-widt {
+            width: 100%;
+        }
+        .fs-35-25 {
+            font-size: 25px;
+        }
+        .couces-box {
+            width: 100%;
+            min-width: 280px;
+            margin: 30px 0 !important;
+        }
+        .container {
+            margin: 0 !important;
+            max-width: 100% !important;
+        }
+        .course-timeDate {
+            padding: 4px 0 !important;
+        }
+        .menters-progess {
+            padding: 5px 0 !important;
+        }
+        .menter-img {
+            width: 114px;
+            height: 50px;
+        }
+        .fs-5 {
+            font-size: 14px !important;
+        }
+        .progres-frame {
+            padding-top: 7px !important;
+        }
+        .progress {
+            height: 77px;
+        }
+        .w-full {
+            margin: 14px 0;
+            width: 100%;
+        }
+        .colem1 {
+            width: 100%;
+        }
+        .tex-container {
+            height: 305px;
+        }
+        .colem1:last-child {
+            justify-content: start;
+            align-items: normal;
+        }
+        .horioxn-heading {
+            text-align: justify;
+            padding: 0 5%;
+        }
+        .g-box {
+            width: 100% !important;
+        }
+        .explor-horixon-section {
+            height: 902px;
+        }
+        .graph-section {
+            padding: 80px 0 30px 0;
+        }
+        .desk-show {
+            display: none;
+        }
+        .mb-show {
+            display: block;
+        }
+        .fs-14 {
+            font-size: 14px;
+        }
+        .topRow-logo {
+            width: 120px;
+        }
+        .hed-colum ul li {
+            font-size: 12px;
+            margin: 5px 0;
+            padding: 5px 0;
+        }
+        .smae-width {
+            width: 80px;
+            height: 20px;
+        }
+        .foter-colum {
+            width: 100%;
+        }
+    }
+    
+    @media (max-width:1220px) {
+        .fs-48-35 {
+            font-size: 32px;
+            line-height: 40px;
+            font-weight: bold;
+        }
+        .hero-heading-lit {
+            font-size: 36px;
+            line-height: 45px;
+            font-weight: 700;
+        }
+        .hero-heading {
+            font-size: 42px;
+            line-height: 52px;
+            display: inline;
+        }
+        .bottm-b {
+            // border-bottom: 5px solid #5dc124;
+            box-shadow: 0 10px 0 -5px #5dc124;
+            padding-bottom: 14px;
+        }
+    }
+    
+    @media (max-width:1449px) {
+        .container {
+            padding: 0 5% !important;
+            margin: 0 !important;
+            max-width: 97%;
+        }
+    }
+    
+    @media (min-width:1450px) {
+        .container {
+            max-width: 1700px;
+        }
+    }
